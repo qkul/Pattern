@@ -1,0 +1,7 @@
+c:\users\qkul\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe.config
+c:\users\qkul\source\repos\Adapter\Adapter\bin\Debug\Adapter.exe
+c:\users\qkul\source\repos\Adapter\Adapter\bin\Debug\Adapter.pdb
+c:\users\qkul\source\repos\Adapter\Adapter\obj\Debug\Adapter.csprojAssemblyReference.cache
+c:\users\qkul\source\repos\Adapter\Adapter\obj\Debug\Adapter.csproj.CoreCompileInputs.cache
+c:\users\qkul\source\repos\Adapter\Adapter\obj\Debug\Adapter.exe
+c:\users\qkul\source\repos\Adapter\Adapter\obj\Debug\Adapter.pdb
