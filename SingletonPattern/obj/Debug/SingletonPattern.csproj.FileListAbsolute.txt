@@ -1,0 +1,7 @@
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\bin\Debug\SingletonPattern.exe.config
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\bin\Debug\SingletonPattern.exe
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\bin\Debug\SingletonPattern.pdb
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\obj\Debug\SingletonPattern.csprojAssemblyReference.cache
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\obj\Debug\SingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\obj\Debug\SingletonPattern.exe
+C:\Users\qkul\source\repos\Adapter\SingletonPattern\obj\Debug\SingletonPattern.pdb
