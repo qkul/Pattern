@@ -1,15 +1,14 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 /*Одиночка (Singleton, Синглтон) - порождающий паттерн, который гарантирует, 
   что для определенного класса будет создан только один объект,
   а также предоставит к этому объекту точку доступа.
 
 Когда надо использовать Синглтон? Когда необходимо, чтобы для класса существовал только один экземпляр*/
 namespace SingletonPattern
-{
+{// варианты:
+ // использованием типа Lazy
+ // полностью ленивая загрузка
+ // защита с lock
     class Program
     {
         static void Main(string[] args)
